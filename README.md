@@ -1,6 +1,6 @@
 # Instagram Non-Followers Finder
 
-This project allows you to identify users on Instagram who you follow but who do not follow you back. It provides a simple and interactive interface built with Streamlit.
+This is a fun project that allows you to identify users on Instagram who you follow but who do not follow you back. It provides a simple and interactive interface built with Streamlit.😂
 
 ## Requirements
 
